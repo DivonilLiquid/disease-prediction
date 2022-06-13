@@ -1,0 +1,8 @@
+'symptom list','output','timestamp'
+'["nodal_skin_eruptions", "skin_rash", "continuous_sneezing"]','Fungal infection','2022-04-24 18:07:21.433692'
+'["nodal_skin_eruptions", "skin_rash", "continuous_sneezing", "patches_in_throat"]','Fungal infection','2022-04-24 18:07:24.398613'
+'["nodal_skin_eruptions", "skin_rash", "continuous_sneezing", "patches_in_throat", "weight_loss"]','Fungal infection','2022-04-24 18:07:27.164244'
+'["nodal_skin_eruptions", "skin_rash", "continuous_sneezing", "patches_in_throat", "weight_loss", "anxiety"]','Fungal infection','2022-04-24 18:07:28.902470'
+'["high_fever", "cough", "breathlessness"]','Bronchial Asthma','2022-05-13 14:57:46.196171'
+'["high_fever", "cough", "breathlessness"]','Bronchial Asthma','2022-05-13 14:57:48.142402'
+'["high_fever", "cough", "breathlessness", "dehydration"]','Bronchial Asthma','2022-05-13 14:57:58.201570'
